@@ -1,6 +1,5 @@
 
-
-records = [] 
+records = []
 
 def add_student():
     roll = input("Enter Roll Number: ")
